@@ -7,3 +7,4 @@
 * [3.基金公司排名](docs/3.md)
 * [4.导航网站](docs/4.md)
 * [5.投资笔记](docs/investment-notes.md)
+* [6.中国市场](docs/china.md)
