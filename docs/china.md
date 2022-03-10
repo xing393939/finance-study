@@ -5,7 +5,7 @@
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://cn.tradingview.com/markets/indices/" rel="noopener" target="_blank"><span class="blue-text">指数</span></a>由TradingView提供</div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+  <script type="text/javascript" src="https://bye04t46if.execute-api.ap-southeast-1.amazonaws.com/default/Web?url=https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
 {
   "colorTheme": "light",
   "dateRange": "ALL",
