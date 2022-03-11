@@ -8,3 +8,4 @@
 * [4.导航网站](docs/4.md)
 * [5.投资笔记](docs/investment-notes.md)
 * [6.中国市场](docs/china.md)
+* [7.全球市场](docs/global.md)
